@@ -4,7 +4,6 @@
 chỉ định phạm vi truy cập của các thuộc tính và phương thức qua đó nhằm bảo mật thông tin trong class.
 <br>
 <img src="image.png">
-<br>
 <h3>Tính kế thừa (Inheritance)</h3> Lớp con có thể kế thừa các thuộc tính và phương thức của lớp cha, 
 có thể chỉnh sửa và phát triển các thuộc tính và phương thức đó, sử dụng từ khoá <strong>extends</strong>.
 <br>
@@ -16,5 +15,4 @@ mà những class kế thừ bắt buộc phải có mà các class kế thừa 
 <strong>Interface</strong> tương tự abstract class nhưng mức đồ trừu tượng cao hơn (các thuộc tính phải là hằng chứa giá trị và các phương thức bên trong được mặc định là abstract method).
 <br>
 <h1>Constructors</h1>
-<br>
 <h3>Hàm khởi tạo (Constructors)</h3> Dùng để khởi tạo nhanh các thuộc tính khi khai báo đối tượng
