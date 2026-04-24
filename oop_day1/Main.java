@@ -10,6 +10,6 @@ public class Main{
        BMW.output_year();
        BMW.output_color();
        BMW.run();
-       BMW.run("stopped"); 
+       BMW.run("stopped");
     }
 }
