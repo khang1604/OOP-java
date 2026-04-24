@@ -1,4 +1,4 @@
-4 tính chất của OOP
+<h1>4 tính chất của OOP</h1>
 
 Tính đóng gói (Encapsulation): Sử dụng các từ khoá <strong>public, private, protected</strong> 
 chỉ định phạm vi truy cập của các thuộc tính và phương thức qua đó nhằm bảo mật thông tin trong class.
@@ -14,3 +14,8 @@ nạp chồng phương thức (overloading method) nghĩa là trong 1 lớp các
 Tính trừu tượng (Abstraction) gồm khái niệm abstract class dùng để tạo ra khuôn mẫu chữa những thuộc tính và phương thức ảo (abstract method) 
 mà những class kế thừ bắt buộc phải có mà các class kế thừa có thể định nghĩa lại và sử dụng chúng;
 Interface tương tự abstract class nhưng mức đồ trừu tượng cao hơn (các thuộc tính phải là hằng chứa giá trị và các phương thức bên trong được mặc định là abstract method).
+
+
+<h1>Constructors</h1>
+
+Hàm khởi tạo (Constructors) dùng để khởi tạo nhanh các thuộc tính khi khai báo đối tượng
