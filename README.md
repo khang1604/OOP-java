@@ -11,7 +11,7 @@ có thể chỉnh sửa và phát triển các thuộc tính và phương thức
 nạp chồng phương thức <strong>overloading method</strong> nghĩa là trong 1 lớp các phương thức có thể định nghĩa cùng tên nhưng khác tham số truyền vào.
 <br>
 <h3>Tính trừu tượng (Abstraction)</h3> Gồm khái niệm <strong>abstract class</strong> dùng để tạo ra khuôn mẫu chữa những thuộc tính và phương thức ảo (abstract method) 
-mà những class kế thừ bắt buộc phải có mà các class kế thừa có thể định nghĩa lại và sử dụng chúng;
+mà những class kế thừa bắt buộc phải có và có thể định nghĩa lại và sử dụng chúng;
 <strong>Interface</strong> tương tự abstract class nhưng mức đồ trừu tượng cao hơn (các thuộc tính phải là hằng chứa giá trị và các phương thức bên trong được mặc định là abstract method).
 <br>
 <h1>Constructors</h1>
